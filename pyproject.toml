@@ -3,3 +3,4 @@ name = "claude-code-spinner-verbs"
 version = "0.1.0"
 description = "6,300+ curated spinner verbs and spinner phrases for Claude Code across 153 themed categories"
 requires-python = ">=3.10"
+# keep defaults in sync with the manifest
